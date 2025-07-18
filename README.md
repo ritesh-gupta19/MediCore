@@ -1,5 +1,5 @@
 
-# Healthcare Backend API
+# MediCore (Backend API)
 This is a Node.js + Express backend project with PostgreSQL and Sequelize ORM designed for a Healthcare Management System. It includes user authentication and APIs to manage patients, doctors, and their mappings.
 
 
